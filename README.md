@@ -17,7 +17,7 @@ recommends swimming.
 
 ## Installation
 Clone the project.
-> https://github.com/miyendisa/basic-calculator.git
+>https://github.com/miyendisa/activity-suggesting.git
 
 ---
 
